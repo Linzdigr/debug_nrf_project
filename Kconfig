@@ -1,0 +1,3 @@
+source "Kconfig.zephyr"
+
+rsource "drivers/display/ssd1333/Kconfig"

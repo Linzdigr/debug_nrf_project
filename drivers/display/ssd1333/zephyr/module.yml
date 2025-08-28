@@ -1,0 +1,4 @@
+name: ssd1333
+build:
+  cmake: .
+  kconfig: Kconfig
